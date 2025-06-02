@@ -27,7 +27,7 @@ It demonstrates my ability to manage **event handling**, **DOM manipulation**, *
 
 ## 🚀 Live Demo
 
-👉 [View Site on GitHub Pages](https://tu-usuario.github.io/js-quiz/)
+👉 [View Site on GitHub Pages](https://henrygarrafa.github.io/quiz-app-js/)
 
 
 ---
